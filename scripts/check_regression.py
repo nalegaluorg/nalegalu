@@ -210,8 +210,20 @@ def get_changed_md_files(base: str) -> list[str]:
     # Filter to act files — skip repo meta files
     skip = {"README", "CHANGELOG", "BLOCKED_ACTS", "PUBLISH_SUMMARY",
             "TEST_RESULTS"}
+    # SAOS case-law cross-reference tables (orzecznictwo.md) are not act
+    # bodies, so the size/article/diacritics gates below — which are tuned
+    # for PDF-extracted legal prose — misfire on them:
+    #   - "missing diacritics" on ASCII judgment metadata (case signatures,
+    #     court codes, saos.org.pl URLs, scores); ratio is ~0.15% by nature.
+    #   - large but legitimate size swings: e.g. the compact format moved
+    #     inline judgments out into per-article orzecznictwo/*.csv siblings,
+    #     shrinking the .md ~70% while preserving every judgment.
+    # The judgment data lives in orzecznictwo/*.csv (not *.md, so already
+    # outside this checker). Exclude the index file by name.
+    saos_crossref_names = {"orzecznictwo.md"}
     return [f for f in files
-            if not any(s in Path(f).stem.upper() for s in skip)]
+            if Path(f).name not in saos_crossref_names
+            and not any(s in Path(f).stem.upper() for s in skip)]
 
 
 def get_base_content(base: str, filepath: str) -> str | None:
